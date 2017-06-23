@@ -8,7 +8,7 @@ If you have any questions about this material, contact the instructor using the 
 
 ### Java 8
 
-[For Windows](https://github.com/ted-ncg/austin-spl-june-26/install/java8win.md)
+[For Windows](java8win.md)
 
 [For Mac OS X](https://github.com/ted-ncg/austin-spl-june-26/install/java8mac.md)
 
