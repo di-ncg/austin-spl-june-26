@@ -1,4 +1,4 @@
-# Self-Paced Learning: Austin Section
+# Self-Paced Learning
 
 This repository contains materials for use during the Self-Paced Learning (SPL) Paths.
 
