@@ -8,7 +8,7 @@
 
 ## Windows
 
-1. Choose the `Windows x64` (*not* x86) file named `jdk-8u161-windows-x64.exe`
+1. Choose the `Windows x64` (*not* x86) file named `jdk-8u181-windows-x64.exe`
 1. Run the file, accepting all defaults from the installer
 1. Open up the system environment variables dialog and add the variable `JAVA_HOME` with the value `C:\Program Files\Java\jdk1.8.0_181` (or wherever the JDK was installed if you selected a different location)
 1. Edit the system environment variable and **append** to the end `;%JAVA_HOME%\bin`.
