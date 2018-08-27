@@ -3,13 +3,17 @@
 IntelliJ IDEA (also known simply as IDEA) is an "integrated development environment", aka an IDE, specifically for Java development.
 It has many powerful features making it easy and fun to work with Java code, such as automated refactoring tools, unit test runners, and much, much more.
 
-> **Note:** If you haven't already installed the Java 8 JDK and Maven, you should do that first.
+## Pre-requisites
 
-> Remember: install the **Ultimate** edition.
+**Note:** If you haven't already installed the Java 8 JDK and Maven, do that first.
+
+## Download
+
+You can install the **Ultimate** trial edition if you haven't done so before.
 
 ![download-intellij-idea-ultimate.png](download-intellij-idea-ultimate.png)
 
-To download IntelliJ IDEA (the latest release is 2018.1.6), visit [this link](https://www.jetbrains.com/idea/download/) and **choose the "Ultimate" edition** (which has a 30-day free trial).
+To download IntelliJ IDEA (the latest release is 2018.2.2), visit [this link](https://www.jetbrains.com/idea/download/) and **choose the "Ultimate" edition** (which has a 30-day free trial).
 
 ## Evaluate for Free
 
