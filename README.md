@@ -1,5 +1,3 @@
-# Self-Paced Learning
+# Installation
 
-This repository contains materials for use during the Self-Paced Learning (SPL) Paths.
-
-If you have any questions about this material, contact the instructor using the email provided in the Path.
+This repository contains materials for use during installation and setup for class.
