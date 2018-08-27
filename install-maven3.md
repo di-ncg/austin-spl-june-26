@@ -28,7 +28,7 @@ Extract the distribution into your preferred directory such as `/usr/local/apach
 Open a terminal and set environment variables from the command line, replacing `/usr/local/apache-maven` with the directory that you chose above:
 
 ```bash
-export M2_HOME=/usr/local/apache-maven/apache-maven-3.5.0
+export M2_HOME=/usr/local/apache-maven/apache-maven-3.5.4
 export M2=$M2_HOME/bin
 ```
 
@@ -37,7 +37,7 @@ export M2=$M2_HOME/bin
 Set these environment variables through the Control Panel, replacing `C:\bin` with the directory that you chose above:
 
 ```bash
-M2_HOME=C:\bin\apache-maven-3.5.0
+M2_HOME=C:\bin\apache-maven-3.5.4
 M2=%M2_HOME%\bin
 ```
 ## Add Maven to the PATH
