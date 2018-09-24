@@ -11,7 +11,7 @@ It has many powerful features making it easy and fun to work with Java code, suc
 
 You can install the **Ultimate** trial edition if you haven't done so before, otherwise download the **Community Edition**. Download link is: https://www.jetbrains.com/idea/download/
 
-![download-intellij-idea-ultimate.png](download-intellij-idea-ultimate.png)
+<img src="download-intellij-idea-ultimate.png" width="400" style="border: 1px solid black;"/>
 
 To download IntelliJ IDEA (the latest release is 2018.2.4), visit [this link](https://www.jetbrains.com/idea/download/) and **choose the "Ultimate" edition** (which has a 30-day free trial).
 
