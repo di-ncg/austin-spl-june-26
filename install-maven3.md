@@ -5,14 +5,6 @@
 You must have Java already installed in order to install and validate Maven.
 You can check this by typing `java -version` on the command line.
 
-## ! Important !
-
-Make sure you also follow the instructions for setting up Visa's "Artifactory" (corporate Maven cache) found on this page after you have downloaded and installed the Maven binary:
-
-https://visawiki.trusted.visa.com/display/VDP/New+Developer+Onboarding+Checklist
-
-**Note:** Search the page for "Maven settings"
-
 ## Download the Binary
 
 Go to the [download page](http://maven.apache.org/download.cgi#Files) and select either the `Binary tar.gz archive` or the `Binary zip archive`.
@@ -20,6 +12,16 @@ Go to the [download page](http://maven.apache.org/download.cgi#Files) and select
 ## Extract the Binary
 
 Extract the distribution into your preferred directory such as `/usr/local/apache-maven` for Mac/Linux or `C:\bin`.
+
+# ! Important !
+
+Make sure you also follow the instructions for setting up Visa's "Artifactory" (corporate Maven cache) found on this page after you have downloaded and installed the Maven binary:
+
+https://visawiki.trusted.visa.com/display/VDP/New+Developer+Onboarding+Checklist
+
+**Note:** Search the page for "Maven settings"
+
+----
 
 ## Set `M2` Environment Variables
 
