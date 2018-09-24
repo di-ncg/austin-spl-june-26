@@ -1,9 +1,8 @@
 # git Installation Instructions
 
-You'll need git version 2.14.1 or later (2.18.0 is the latest).
+You'll need git version 2.14.1 or later.
 
 If you already have git, then make sure it's a recent enough version by doing a `git --version` at the command line.
-If you have 2.14.1 or later, then skip to setting up the configuration section below.
 
 ## Download and Install git
 
