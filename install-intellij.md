@@ -13,7 +13,7 @@ You can install the **Ultimate** trial edition if you haven't done so before, ot
 
 <img src="download-intellij-idea-ultimate.png" width="400" style="border: 1px solid black;"/>
 
-To download IntelliJ IDEA (the latest release is 2018.2.4), visit [this link](https://www.jetbrains.com/idea/download/) and **choose the "Ultimate" edition** (which has a 30-day free trial).
+To download IntelliJ IDEA, visit [this link](https://www.jetbrains.com/idea/download/) and **choose the "Ultimate" edition** (which has a 30-day free trial).
 
 ## Evaluate for Free
 
